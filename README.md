@@ -1,13 +1,15 @@
 <div align="center">
   <h1>🌌 Ethara Workspace</h1>
   <p><em>Where elite teams execute with precision.</em></p>
+
+  <h3><a href="https://ethara-workspace.up.railway.app/">🚀 View Live Demo Here 🚀</a></h3>
 </div>
 
 ---
 
 Ethara Workspace is a high-fidelity, full-stack project management application engineered to handle complex team workflows. Built with a focus on high-performance architecture and a cinematic user experience, Ethara bridges the gap between secure backend role management and a deeply immersive, glassmorphism frontend.
 
-![Ethara Preview](https://via.placeholder.com/1200x600/030303/FFFFFF/?text=Ethara+Workspace+UI)
+[![Ethara Preview](https://via.placeholder.com/1200x600/030303/FFFFFF/?text=Click+Here+to+View+Live+Site)](https://ethara-workspace.up.railway.app/)
 
 ---
 
